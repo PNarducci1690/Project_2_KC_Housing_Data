@@ -19,13 +19,20 @@ Using these factors as a basis, families can determine what homes are best suite
 ### Location
 
 According to the data, home location has an impact on the price of the home. Homes located in areas such as Seattle, Merer Island, Bellevue, and the surrounding areas are very expensive (in the millions) and would be out of the price range of families seeking affordable homes. Families seeking affordable housing should look towards the southern half of the county, such as Mapple Valley, Hobart, Black Diamond, and southern Seattle. The homes in this area generally cost between a mean price between 230K and 400K, making them affordable for home buyers seeking to start a family in the county. However, majority of these homes are outside of the major city areas, meaning that most home owners will need to commute to work. The maps bellow show the prices of the homes by zipcode and by latitude and longitude loaction.
+
+#### Zipcode's Affect on Home Price
 ![Housing Price by Zipcode](https://github.com/PNarducci1690/Project_2_KC_Housing_Data/blob/master/King_County_Graphs/Zipcode_Price_Affect_On_Home_Price.PNG)
+
+#### Latitude and Longitude's Affect on Home Price
 ![Housing Price by longitudinal and latitudinal location](https://github.com/PNarducci1690/Project_2_KC_Housing_Data/blob/master/King_County_Graphs/long_lat_Affect_on_Home_Price.PNG)
 
 ### Attributes 
 
-When looking at the attributes of the home
-### External Factors
+When looking at the attributes of the home, we notice that the square footage (sqft.) of the home has a significant impact on home price. As square footage increases, so does the price of the home. We can see the relationship in the jointplot bellow:
+
+![Sqft_Living Affect on Home Price](https://github.com/PNarducci1690/Project_2_KC_Housing_Data/blob/master/King_County_Graphs/Sqft_living%20Affect%20on%20Home%20Price.PNG)
+
+Most homes in King County have a sqft. between 1k and 2k with a price ranging from as low as 250K up until 500K in value.
 
 ## Conclusions
 
